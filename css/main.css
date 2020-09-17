@@ -1,0 +1,30 @@
+html {
+  font-family: Open Sans;
+  background-color: #000;
+  color: #444;
+  border-color: #ccc;
+}
+
+img {
+  height: 1.5em;
+}
+
+section {
+  background-color: #ccc;
+  color: #000;
+}
+
+h2 {
+  text-align: center;
+}
+
+section li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  line-height: 1.5em;
+  margin: 1.5em;
+  padding: .5rem 1rem .6rem 2rem;
+  width: 24rem 16rem 5rem;
+}
